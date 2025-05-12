@@ -1,5 +1,5 @@
 # Hackathon
-## May 12
+## May 12 Introduction
 * at least 9 modeling groups provided data
 * regional and global models
 * Front-end: Jupyter hub and Python
@@ -27,3 +27,15 @@
   * select parameters you want
 * GitHub issue for discussions
 * Can make pull requests to contribute analysis code
+## SCREAMv1 simulations
+* dx=3.25 km
+* L28 40km top
+* NH SE-Dycore
+* SHOC is like a simplified version of CLUBB
+* No deep convection scheme
+* Literature generally says weaker cloud feedbacks at higher res.
+* tune TOA imbalance
+* Biases in tropical convection
+ * lots of popcorn convection (doesn't organize)
+* Cloud feedbacks have resolution sensitivity (mainly shortwave)
+* Are there shared biases in storm-resolving models
