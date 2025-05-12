@@ -43,3 +43,5 @@
 ## UXarray and HEALPix
 * You have a tree structure (you know parent face and child face)
 * hp.ang2pix (angle to pixel)
+## Presentation
+* track on HEALPix grid (bryce harrop)
