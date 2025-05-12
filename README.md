@@ -27,3 +27,4 @@
   * select parameters you want
 * GitHub issue for discussions
 * Can make pull requests to contribute analysis code
+* you can still group by lat-lon on the unstructured grid
