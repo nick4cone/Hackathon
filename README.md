@@ -20,6 +20,7 @@
   * 12 cells for zoom level 0
   * zoom level 10 ~6k , 12.5 M columns
   * Going higher than zoom level 7 for display on screen may not make sense
+  * Tell it zoom level and time interval
 * Zarr works with xarray
   * stores data in chunks
   * knows where to get the data you want (in space and time)
@@ -39,3 +40,6 @@
  * lots of popcorn convection (doesn't organize)
 * Cloud feedbacks have resolution sensitivity (mainly shortwave)
 * Are there shared biases in storm-resolving models
+## UXarray and HEALPix
+* You have a tree structure (you know parent face and child face)
+* hp.ang2pix (angle to pixel)
