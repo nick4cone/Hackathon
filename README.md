@@ -62,3 +62,7 @@
   * def extract_mcs_var(ds_tracks, ds_enviro_vars, var_name='TCWV')
 * 2D variables centering each track
 * compute gradients on HEALPix grid
+## May 13 Presentations
+* Bulk microphysics schemes
+* SCREAM. Compare to IMERG.
+* Are the models still 'dreary'
