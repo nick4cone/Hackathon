@@ -45,3 +45,5 @@
 * hp.ang2pix (angle to pixel)
 ## May 12 Presentations
 * track on HEALPix grid (bryce harrop)
+## Zhe Feng
+* MCS frequency and total precipitation does not need to be calculated at high zoom level (6 would be okay)
