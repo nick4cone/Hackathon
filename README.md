@@ -52,3 +52,13 @@
 * interactivity?
 * autoregression (time-stepping)
  * e.g. graphcast, ACE2
+## MCS Breakout
+* MCSMIP examples for standard output
+* Wei-Ming Tsai
+* adding IMERG tracking to catalog
+* Add what variables are output at what zoom levels and temporal resolutions
+  * large-scale environment variables
+  * Trying to extract additional info. surrounding tracks
+  * def extract_mcs_var(ds_tracks, ds_enviro_vars, var_name='TCWV')
+* 2D variables centering each track
+* compute gradients on HEALPix grid
