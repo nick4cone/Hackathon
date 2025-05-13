@@ -66,3 +66,7 @@
 * Bulk microphysics schemes
 * SCREAM. Compare to IMERG.
 * Are the models still 'dreary'
+Satoh:
+* Large TC group
+* pyNICAM
+* May 14 9:40 JST Chunks in HEALPix
