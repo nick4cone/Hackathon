@@ -47,3 +47,8 @@
 * track on HEALPix grid (bryce harrop)
 ## Zhe Feng
 * MCS frequency and total precipitation does not need to be calculated at high zoom level (6 would be okay)
+## NVIDIA
+* foundation model <==> GCM
+* interactivity?
+* autoregression (time-stepping)
+ * e.g. graphcast, ACE2
