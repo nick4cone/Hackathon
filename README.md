@@ -70,3 +70,7 @@ Satoh:
 * Large TC group
 * pyNICAM
 * May 14 9:40 JST Chunks in HEALPix
+Julia:
+* MCS hours
+* Cloud ice in MCSs
+* TempestExtreme for TC tracking
