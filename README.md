@@ -79,3 +79,4 @@ Julia:
 * DYAMOND organized convection paper
 * radius around MCS centroid and select environment variables (healpy function)
 * TempestExtremes: TC, AR, and ETC (should try)
+* John Mejia power, period plots
