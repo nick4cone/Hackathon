@@ -74,3 +74,8 @@ Julia:
 * MCS hours
 * Cloud ice in MCSs
 * TempestExtreme for TC tracking
+## May 14 Presentations
+* divergence and vorticity on healpix grid
+* DYAMOND organized convection paper
+* radius around MCS centroid and select environment variables (healpy function)
+* TempestExtremes: TC, AR, and ETC (should try)
