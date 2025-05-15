@@ -80,3 +80,13 @@ Julia:
 * radius around MCS centroid and select environment variables (healpy function)
 * TempestExtremes: TC, AR, and ETC (should try)
 * John Mejia power, period plots
+## May 15 Presentations
+* Models underestimate convective organization
+* Alex Loijko energy transfer jupyter notebook
+## Tips
+* virtual environment
+* venv, conda, docker
+* git status
+* look at branch prefix
+* if prefix is master/upstream you are not on your local fork
+* kernel supports multiple softwares
