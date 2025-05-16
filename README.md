@@ -92,3 +92,9 @@ Julia:
 * kernel supports multiple softwares
 * psy-view
 * climate unboxed
+## End presentations
+* Low tropospheric buoyancy
+* Establishing connections
+* NERSC has step-by-step guide
+* proxy key
+* may need to download extension from marketplace
