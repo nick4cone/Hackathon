@@ -98,3 +98,4 @@ Julia:
 * NERSC has step-by-step guide
 * proxy key
 * may need to download extension from marketplace
+* clone from ssh
